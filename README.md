@@ -15,3 +15,5 @@ Live printing easy to use.
 If you have the problem "Your IP can be blocked by TikTok", you can use a VPN.
 If you have any problems contact me on Discord: Il grande Stalin#3909
 
+# Tips
+In public folder you can change msg.js (containing message files) and words.js (words to guess in live).
